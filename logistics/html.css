@@ -1,0 +1,265 @@
+@media only screen and (max-width: 600px){
+    .side{
+        /* margin-left: 2cm; */
+        /* width: 600px; */
+        /* width: fit-content; */
+        max-width: 9cm;
+        margin-top: 2cm;
+
+    }
+    .container{
+        /* margin-top: -4cm; */
+       max-width:600px;
+       
+       
+        
+    }
+    body{
+        flex-direction: column;
+        /* background-color: red; */
+        overflow-x: hidden;
+
+    }
+    
+    .reset{
+       max-width: 7cm;
+    }
+    .button{
+        max-width: 7cm;
+    }
+    .email_section{
+        max-width: 7cm;
+    }
+    .button-two{
+        max-width: 7cm;
+
+        /* margin-left: -5cm; */
+    }
+    /* .password_reset_button{
+        margin-left: -12cm;
+    } */
+   .input{
+    max-width: 7cm;
+   }   
+   /* h2{
+    font-size: 19px;
+    font-weight: bolder;
+   } */
+}  
+
+/* @media only screen and (max-width:1024px){
+   .container{
+    text-align: center;
+    margin-left: -4cm;
+   }
+   .h4{
+    text-align: left;
+    margin-left: -8.5cm;
+   }
+   .h2{
+    margin-left: 5.5cm;
+   }
+   #checkbox{
+    margin-left: 5.5cm;
+   }
+   .welcome_text{
+    margin-left: -4cm;
+   }
+   .welcome_text_one{
+    margin-left: 1cm;
+   }
+   .side{
+    max-width: 18cm;
+   }
+ }  */
+
+.side{
+    margin-top: 2cm;
+    margin-left: 1cm;
+}
+body{
+    display: flex;
+    /* grid-template-columns: 50% 50%; */
+    /* background-color: red; */
+
+    font-family: 'Nunito', sans-serif;
+}
+.container{
+    margin-top: 1cm;
+    margin-left: 1cm;
+    /* display: flex; */
+}
+.forgot_password{
+    /* margin-left: -1px; */
+    font-weight: lighter;
+    font-size: 13px;
+}
+.h4{
+    margin-top: cm;
+}
+.hello{
+    margin-top: -0.5cm;
+}
+.input{
+    padding: 10px;
+    width: 9cm;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+}
+.forgot{
+    display:flex;
+}
+a{
+    text-decoration: none;
+    margin-top: 0.55cm;
+    margin-left: 3cm;
+    color: #494AD7;
+}
+.welcome_text{
+    color: #6e6b7b;
+    font-size: 14px;
+}
+#checkbox{
+    /* margin-top: 0.4cm; */
+    /* width: 1; */
+}
+#checkbox:hover{
+    border: 1px solid #494AD7;
+}
+.third{
+    display: flex;
+}
+.remember{
+    margin-top: 23px;
+    font-weight: lighter;
+    color: #6e6b7b;
+    margin-left: 0.3cm;
+}
+.button{
+    padding: 10px;
+    width: 9cm;
+    margin-left: 0.25cm;
+    background-color: #494AD7;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+}
+.two{
+    margin-top: -0.9cm;
+    margin-left: 2cm;
+}
+.a{
+    font-size: 14px;
+}
+.hr_one{
+    width: 4cm;
+    /* margin-left: -0.1cm; */
+    margin-top: 0.7cm;
+    border-bottom: none;
+    border-left:none ;
+    border-right: none;
+    /* color: #6e6b7b; */
+    /* border: 1px solid #6e6b7b; */
+}
+.ora{
+    display: flex;
+}
+.oracle{
+    /* margin-left: cm; */
+}
+.hr_two{
+    width: 4cm;
+    /* margin-left: -0.1cm; */
+    margin-top: 0.7cm;
+    border-bottom: none;
+    border-left:none ;
+    border-right: none; 
+}
+.reset_container{
+    background-color: #f8fafc;
+        /* display: grid; */
+    padding: 10px;
+    padding-bottom: 40px;
+}
+
+.home_reset_container{
+    /* background-color: red;  */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2cm;
+    padding: 20px;
+    /* margin-left: 10cm; */
+
+    
+    
+
+    /* margin-left: none; */
+    /* margin-right: none; */
+
+    
+}
+.reset{
+    padding: 10px;
+    width: 10cm;
+    height: 1cm;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+}
+.password_reset{
+    padding: 5px;
+}
+.font{
+    text-align: center;
+    color: #6e6b7b;
+}
+.button{
+    padding: 10px;
+    width:10cm ;
+    margin-left: 0.3cm;
+    height: 1.5cm;
+    margin-top: 1cm;
+    /* padding-bottom: 20px; */
+    
+}
+.copy{
+    text-align: center;
+    /* margin-right: auto; */
+    /* margin-left: auto; */
+    margin-top: 0.5cm;
+    color: #6e6b7b;
+    font-weight: lighter;
+}
+.email_section{
+    margin-left: -6px;
+    padding: 10px;
+    width: 20.8cm;
+    height: 1cm;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+}
+.button-two{
+    padding: 10px;
+    width:10cm ;
+    margin-left: 0.3cm;
+    height: 1.5cm;
+    margin-top: 0.5cm;
+    background-color: #494AD7;  
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+}
+/* .password_reset_button{
+    margin-left: 5cm;
+} */
+
+
+
+
+
+
+
+
+
+
+
+    

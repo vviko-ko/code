@@ -1,0 +1,163 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+@media only screen and(max-width:600px){
+/* body{
+    flex-direction: column;
+    
+}    
+nav{
+    max-width: 4cm;
+}
+
+.section_one_two{
+    overflow-x: hidden;
+}
+ul{
+    margin-left: -5cm;
+} */
+
+
+}
+
+
+
+
+body{
+    background-color: #505168;
+    font-family: 'Nunito', sans-serif;
+}
+nav{
+    padding: 10px;
+    /* text-align: center; */
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    margin-left:auto;
+    /* text-align: center; */
+    /* margin-right: auto; */
+}
+ul li a{
+    margin: 0.5cm;
+    text-decoration: none;
+    color:#dcc48e ;
+    /* text-align: center; */
+}
+h1{
+    text-transform: uppercase;
+    color: #dcc48e;
+}
+.section_one{
+    margin-top: 2cm;
+    text-align: center;
+    line-height: 1cm;
+}
+p{
+    color: #dcc48e;
+}
+.see_more{
+    margin-top: 2cm;
+}
+.arrow{
+margin-top: -1.2cm;
+/* margin-left: 2cm; */
+}
+.angle{
+    margin-left: 5cm;
+}
+.logos{
+    margin-top: 1cm;
+    margin-left: 2.5cm;
+    margin-bottom: 2cm;
+}
+.nav:hover{
+    text-decoration: underline;
+    font-size: 0.5cm;
+    transition: 2s ease;
+
+    /* transition: cubic-bezier(0.075, 0.82, 0.165, 1); */
+    /* transition: .400ms ease-in; */
+}
+.section_one_two{
+    padding-left:2cm ;
+    line-height: 0.7cm;
+}
+.header{
+    color: #dcc48e;
+}
+.header:hover{
+    padding-left: 1cm;
+    transition: 0.5s;
+}
+.two{
+    margin-top: 1.5cm;
+}
+.hello{
+    margin-left: 12.5cm;
+}
+.h1{
+    font-weight: lighter;
+}
+.input{
+    width: 12cm;
+    border: 1px solid #dcc48e;
+    padding: 10px;
+    background-color: #505168;
+    margin: 0.3cm;
+    color: #dcc48e;
+    border-radius: 5px;
+}
+.input_message{
+    width: 12cm;
+    border: 1px solid #dcc48e;
+    padding: 10px;
+    background-color: #505168;
+    margin: 0.3cm;
+    color: #dcc48e;
+    border-radius: 5px;
+    height:3cm;
+}
+button{
+    padding: 20px;
+    margin-top: 0.5cm;
+    margin-left: 0.3cm;
+    border-radius: 5px;
+    border: 1px solid #dcc48e;
+    background-color: #dcc48e;
+    color: #505168;
+    width: 5cm;
+    line-break: strict;
+}
+.section_one_three{
+    /* margin-top: -1cm; margin-top: 2cm; */
+    margin-top: -1cm;
+    text-align: center;
+    line-height: 1cm;
+
+
+}
+.angles{
+    margin-left: 3.5cm;
+}
+.angles:hover{
+    padding-left: 0.5cm;
+    transition: 0.5s ease;
+}
+.see_more_home{
+    margin-top:-0cm;
+}
+.logo_one:hover{
+width: 40px;
+}
+.angle:hover{
+    padding-left: 0.5cm;
+    transition: 1s ease;
+}
+.auto{
+    /* margin-left: 3cm; */
+    margin-top: 1cm;
+}
+.autocredit{
+    text-align: center;
+}

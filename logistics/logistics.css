@@ -1,0 +1,72 @@
+ *{
+    font-family: 'Nunito', sans-serif;
+    padding: 3px;
+}
+.img{
+    margin-top: -4cm;
+}
+body{
+    background-image: url(cargo-ship-vessel-with-containers-worldwide-logistic-business_493806-16164.avif); 
+    background-size:cover;
+    
+}
+nav{
+    display: flex;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 1.5cm;
+    
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    margin: 0.5cm;
+}
+button{
+    margin-left: 6cm;
+    width: 4cm;
+    border-radius: 10px;
+    border: none;
+    margin-top: 0.5cm;
+    height: 1cm;
+    background-color: #4944D7;
+    color: white;
+}
+select{
+    border: none;
+    background-color: rgb(84 120 147);
+    font-size: 16px;
+    color: #fff;
+    width: 4cm;
+}
+.input_one{
+    width: 15cm;
+   height: 1.5cm;
+   border-radius: 10px; 
+   border: none;
+   margin-top: 2cm;
+   margin-left: 9cm;
+   text-align: center;
+   font-size: 16px;
+}
+.input_two{
+    height: 1.4cm;
+    border-radius: 10px;
+    border: none;
+    width: 3cm;
+    margin-bottom: -0.7cm;
+    margin-left: -3.3cm;
+    background-color: #4944D7;
+    color: #fff;
+    border-top-right-radius: none;
+}
+.track{
+    color: #fff;
+    text-align: center;
+}
+/* section 2 */
+/* .section_two{
+    background-color: white;
+} */ 

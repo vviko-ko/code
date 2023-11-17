@@ -1,0 +1,74 @@
+ body{
+    background-color: darkblue;
+    margin: 1cm;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.eng{
+    display: flex;
+    justify-content: right;
+    gap: 1cm;
+    text-align: right;
+    color: white;
+    
+    
+    
+}
+hr{
+    margin: 1cm;
+
+}
+.gma img{
+    width: 2.5cm;
+    height: 0.8cm;
+    margin: 0.2cm;
+}
+i{
+    color: antiquewhite;
+    font-size: 25px;
+}
+.dmn{
+    display:grid;
+    grid-template-columns: 2.8fr 1.3fr;
+}
+.bas{
+    font-size: 18px;
+    text-decoration: none;
+    color: aliceblue;
+    gap: 1cm;
+}
+.gam{
+    display: flex;
+    gap: 1cm;
+}
+
+p{
+    font-size: 12px;
+    color: white;
+    margin-left: 1cm;
+}
+h3{
+    color: white;
+    margin-left: 1cm;
+}
+span{
+    text-decoration: underline;
+
+}
+.spa{
+     margin: 0.3cm; 
+     border-right: 1px solid white; 
+     display: flex; 
+     color: aliceblue;
+    margin-right: 0.3cm;
+    padding-right: 10px;
+}
+.eng p:hover{
+   text-decoration: underline;
+}
+.sda{
+    display: flex;
+    margin-left: 1cm;
+}
+.spaa{
+    color: aliceblue;
+} 

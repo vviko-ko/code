@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@media only screen and(max-width:600px){
+    body{
+        flex-direction: column;
+    }
+    .cont{
+        flex-direction: column;
+    }
+}
+nav{
+    display: flex;
+    position: fixed;
+    padding: 10px;
+    background-color: #7843E9;
+     margin-top: -10px;
+    margin-left: -10px;
+    padding-right: 1.5cm;
+    
+}
+
+body{
+    font-family: 'nunito',sans-serif ;
+    background-color: #7843E9;
+color: white;
+
+}
+/* .hey{
+    padding-top:2.7cm ;
+} */
+
+/* background-color: #7843E9;
+color: white; */
+/* height: 100%;
+margin-top: -5px; */
+
+
+    /* margin-top: -1px; */
+
+ul{
+    list-style-type: none;
+    font-size: 25px;
+    /* color: black; */
+}
+.about{
+    display: flex;
+    list-style-type: none;
+    margin-left: 14cm;
+    font-size: 16px;
+    margin-top: 26px;
+}
+a{
+    margin: 0.5cm;
+    text-decoration: none;
+    color: white;
+}
+
+
+.section_one{
+    /* background-color: #7843E9; */
+    text-align: center;
+    margin-top: 7cm;
+}
+h1{
+    /* color: white; */
+    font-size: 1cm;
+    font-weight: bolder;
+}
+.button_hire{
+    margin-top: 2cm;
+    padding: 20px;
+    width: 5cm;
+    margin-bottom: 2cm;
+    border: none;
+    border-radius: 5px;
+    color: #7843E9;
+    font-size: 16px;
+}
+.section_two{
+    background-color: #fff;
+    color: #7843E9;
+    /* border-radius: 5px; */
+    margin-left: -10px;
+    margin-right: -10px;
+    /* display: flex; */
+
+    
+}
+.projects{
+    margin-top:1cm;
+}
+.me{
+    text-align: center;
+    padding-top: 4cm;
+    /* padding-bottom: cm; */
+}
+.flex{
+    text-align: center;
+}
+.get_to{
+    padding-left: 1cm;
+
+}
+.h2{
+    padding-top: 1cm;
+    padding-bottom: 0.5cm;
+}
+p{
+    line-height: 0.7cm;
+}
+.button_contact{
+    margin-top: 1cm;
+    padding: 20px;
+    width: 5cm;
+    margin-bottom: 2cm;
+    border: none;
+    border-radius: 5px;
+    background-color: #7843E9;
+    color: #fff;
+    font-size: 16px;
+}
+.cont{
+    display: flex;
+    /* flex-direction: column; */
+    /* justify-content: center; */
+}
+.idan{
+    padding-top: 3cm;
+}
+.contact_me{
+    padding-top: 4cm;
+}
+.skills{
+    /* background-color: #7843E9; */
+    margin-left: 2cm;
+    
+}
+.skill{
+    margin-top: 1.5cm;
+    margin-left:7.5cm;
+}
+.yo{
+    padding: 20px;
+    margin: 0.5cm;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    background-color: #7843E9;
+    width: 8cm;
+}
+.buttons{
+    display: grid;
+    margin-left: 4cm;
+    margin-top: 0.5cm;
+    
+}
+.p_home{
+    padding-bottom: 7cm;
+}
+.part_three{
+    text-align: center;
+    margin-top: 5cm;
+}
+.email{
+    background-color: #fff;
+    width: 20cm;
+    height:15cm;
+    margin-left: 7cm;
+    border-radius: 5px;
+    margin-bottom: 2cm;
+}
+input{
+    width:18cm;
+    padding: 20px;
+    margin-top: 1cm;
+    background-color: gainsboro;
+    border: none;
+    
+}
+.input{
+    padding-bottom: 4cm;
+}
+footer{
+    padding-top: 0.5cm;
+    background-color: #fff;
+    color: #7843E9;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-left: 20px;
+    padding-bottom: 0.5cm;
+    text-align: center;
+    margin-bottom: -20px;
+
+
+}
+h5{
+    margin-top: -0.3cm;
+    line-height: 0.6cm;
+    margin-bottom: 2cm;
+}
+.ghost{
+    margin-top: -1.5cm;
+}
+.logos{
+    margin-top: 1cm;
+}
+.project{
+    text-align: center;
+}
+.images{
+    display: grid;
+    margin-left: 6.5cm;
+}

@@ -1,0 +1,10 @@
+nav{
+    padding: 10px;
+    display: flex;
+}
+ul{
+    display: flex;
+}
+a{
+    margin: 1cm;
+}

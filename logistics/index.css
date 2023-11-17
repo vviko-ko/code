@@ -1,0 +1,22 @@
+@import url("https://fonts.cdnfonts.com/css/uncut-sans-2");@import url("https://fonts.cdnfonts.com/css/jetbrains-mono");
+*{
+    font-family: 'Nunito', sans-serif;
+    /* font-family: JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace; */
+}
+body{
+    background-color: #f8fafc;
+}
+nav{
+    padding: 10px;
+    display: flex;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 8.5cm;
+}
+a{
+    margin: 0.5cm;
+    text-decoration: none;
+    color: black;
+}
